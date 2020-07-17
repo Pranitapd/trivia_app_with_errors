@@ -1,0 +1,6 @@
+{
+	'question':'Who am I',
+	'answer':'Human',
+	'category':'4',
+	'difficulty': 1
+}
